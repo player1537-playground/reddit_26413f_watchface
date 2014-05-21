@@ -1,0 +1,24 @@
+{
+    "versionLabel": "1.0",
+    "capabilities": [
+        ""
+    ],
+    "shortName": "redd.it/26413f",
+    "longName": "redd.it/26413f",
+    "versionCode": 1,
+    "uuid": "4dbba6aa-2ac3-46e2-89fc-e86e519e10b9",
+    "resources": {
+        "media": [
+            {
+                "type": "png-trans",
+                "file": "images/black-checkerboard-transparent.png",
+                "name": "IMAGE_DITHER"
+            }
+        ]
+    },
+    "watchapp": {
+        "watchface": false
+    },
+    "appKeys": {},
+    "companyName": "thobson125@gmail.com"
+}
