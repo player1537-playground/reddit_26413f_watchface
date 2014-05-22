@@ -1,24 +1,24 @@
 {
-    "versionLabel": "1.0",
-    "capabilities": [
-        ""
-    ],
-    "shortName": "redd.it/26413f",
-    "longName": "redd.it/26413f",
-    "versionCode": 1,
-    "uuid": "4dbba6aa-2ac3-46e2-89fc-e86e519e10b9",
     "resources": {
         "media": [
             {
+                "name": "IMAGE_DITHER",
                 "type": "png-trans",
-                "file": "images/black-checkerboard-transparent.png",
-                "name": "IMAGE_DITHER"
+                "file": "images/black-checkerboard-transparent.png"
             }
         ]
     },
+    "companyName": "thobson125@gmail.com",
+    "shortName": "redd.it/26413f",
+    "uuid": "4dbba6aa-2ac3-46e2-89fc-e86e519e10b9",
+    "versionCode": 1,
+    "capabilities": [
+        "configurable"
+    ],
+    "longName": "redd.it/26413f",
     "watchapp": {
-        "watchface": false
+        "watchface": true
     },
     "appKeys": {},
-    "companyName": "thobson125@gmail.com"
+    "versionLabel": "1.0"
 }
